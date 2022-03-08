@@ -1,5 +1,5 @@
 # Projetos e Desafios na Dio
-Projetos e desafios realizados nos crusos e bootcamps na Dio
+Projetos e desafios realizados nos cursos e bootcamps da Dio.
 
 
 # Links
